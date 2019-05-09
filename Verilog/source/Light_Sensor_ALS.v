@@ -7,7 +7,7 @@
 //              Format of data coming back from board is:
 //                      MSB                          LSB 
 //      Index   7  6  5  4  3  2  1  0  |  7  6  5  4  3  2  1  0  |
-//      Data    0  0  0  D7 D6 D5 D4 D3    D2 D2 D0 0  0  0  0  Z     
+//      Data    0  0  0  D7 D6 D5 D4 D3    D2 D1 D0 0  0  0  0  Z     
 //
 ///////////////////////////////////////////////////////////////////////////////
 
